@@ -73,5 +73,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>NSContactsUsageDescription</key>
+	<string>Access is needed to send Deedz to friends</string>
 </dict>
 </plist>
