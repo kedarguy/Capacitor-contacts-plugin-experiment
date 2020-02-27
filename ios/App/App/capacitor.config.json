@@ -1,0 +1,8 @@
+{
+  "appId": "com.caponetwothree.app",
+  "appName": "caponetwo",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "cordova": {}
+}
